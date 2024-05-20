@@ -2,6 +2,7 @@
 accompanistVersion = "0.32.0"
 agp = "8.4.0"
 cameraxVersion = "1.3.3"
+commonsCodecVersion = "1.15"
 coreSplashscreen = "1.0.1"
 datastorePreferences = "1.1.1"
 koinAndroidxCompose = "3.4.5"
@@ -31,6 +32,7 @@ androidx-lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-view
 androidx-room-common = { module = "androidx.room:room-common", version.ref = "roomVersion" }
 androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomVersion" }
 androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomVersion" }
+commons-codec = { module = "commons-codec:commons-codec", version.ref = "commonsCodecVersion" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }

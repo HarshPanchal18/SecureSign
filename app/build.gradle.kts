@@ -105,6 +105,7 @@ dependencies {
     implementation(libs.koin.androidx.compose)
     implementation(libs.accompanist.permissions)
     implementation(libs.androidx.datastore.preferences)
+    implementation(libs.commons.codec)
 
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
